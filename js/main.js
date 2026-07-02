@@ -80,8 +80,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const startCounters = () => {
       statsElements.forEach(counter => {
         const target = +counter.getAttribute('data-target');
-        const duration = 2000; // 2 seconds
-        const stepTime = Math.max(Math.floor(duration / target), 15);
+        const duration = 400; // Snappy 0.4 seconds
+        const stepTime = Math.max(Math.floor(duration / target), 10);
         let current = 0;
         
         const timer = setInterval(() => {
@@ -200,6 +200,25 @@ document.addEventListener('DOMContentLoaded', () => {
           successAlert.style.display = 'none';
         }, 8000);
       }
+    });
+  }
+
+  // 9. Snappy Back-to-Top Button
+  const backToTop = document.getElementById('backToTop');
+  if (backToTop) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 300) {
+        backToTop.classList.add('show');
+      } else {
+        backToTop.classList.remove('show');
+      }
+    });
+
+    backToTop.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'auto' // Snap to top instantly (fast and hard)
+      });
     });
   }
 });
