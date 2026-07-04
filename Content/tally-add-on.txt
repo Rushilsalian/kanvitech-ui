@@ -1,7 +1,7 @@
-==========================================================
+﻿==========================================================
 KANVTECH SOLUTIONS PRIVATE LIMITED
 WEBSITE PAGE: TALLY ADD-ON (TDL)
-Final content — section-wise
+Final content - section-wise
 ==========================================================
 
 
@@ -14,7 +14,7 @@ Tally Add-Ons & TDL Customization in Mumbai
 ----------------------------------------------------------
 INTRO  (1 line under the heading)
 ----------------------------------------------------------
-Extend your Tally with extra features it doesn't offer out of the box — built and installed by Kanvtech to match how your business actually works.
+Extend your Tally with extra features it doesn't offer out of the box - built and installed by Kanvtech to match how your business actually works.
 
 
 ----------------------------------------------------------
@@ -26,7 +26,7 @@ A Tally Add-On is a small module that plugs into your existing Tally and adds a 
 ----------------------------------------------------------
 WHO IT'S FOR  /  USE CASE
 ----------------------------------------------------------
-For any business already using Tally that finds itself working around the software's limits — manually checking entries, copying data into emails, struggling with approvals, or wishing a report looked different. Instead of changing the way your team works, we adjust Tally to fit it.
+For any business already using Tally that finds itself working around the software's limits - manually checking entries, copying data into emails, struggling with approvals, or wishing a report looked different. Instead of changing the way your team works, we adjust Tally to fit it.
 
 
 ----------------------------------------------------------
@@ -72,14 +72,14 @@ BENEFITS
 - Get the exact features you need without switching away from Tally
 - Cut out repetitive manual work and reduce data-entry mistakes
 - Add tighter control over approvals, security and outstanding payments
-- Keep everything inside your existing Tally — no new system to learn
+- Keep everything inside your existing Tally - no new system to learn
 
 
 ----------------------------------------------------------
 FAQ  (also supports SEO)
 ----------------------------------------------------------
 Q: What is a Tally add-on?
-A: It's an extra module that adds a specific feature to your existing Tally — like extra security, automation or a custom report — without changing your core software.
+A: It's an extra module that adds a specific feature to your existing Tally - like extra security, automation or a custom report - without changing your core software.
 
 Q: What is TDL?
 A: TDL stands for Tally Definition Language. It's the language used to build and customise features inside Tally, which is how add-ons are created.
@@ -97,19 +97,19 @@ A: Yes. We handle the setup on your system and support you after, so you're not 
 ----------------------------------------------------------
 CTA
 ----------------------------------------------------------
-Tell us what you wish Tally could do — chances are we can build it. Book a Free Demo or Send an Enquiry, and Kanvtech will take it from there.
+Tell us what you wish Tally could do - chances are we can build it. Book a Free Demo or Send an Enquiry, and Kanvtech will take it from there.
 
 
 ----------------------------------------------------------
-SEO NOTES  (for development — not page copy)
+SEO NOTES  (for development - not page copy)
 ----------------------------------------------------------
 Primary keyword: tally add on / tally tdl customization mumbai
 Secondary: tally to whatsapp, tally voucher authorization, custom tally module, tdl development india
 Meta title idea: Tally Add-Ons & TDL Customization in Mumbai | Kanvtech
-Meta description idea: Add extra features to your Tally with custom TDL add-ons — security, automation, invoicing, GST and more. Built, installed and supported by Kanvtech. Enquire now.
+Meta description idea: Add extra features to your Tally with custom TDL add-ons - security, automation, invoicing, GST and more. Built, installed and supported by Kanvtech. Enquire now.
 Internal link: cross-link to "Tally Customization Solution" and "Tally Services" pages.
 
-NOTE (positioning): Kanvtech provides Tally customization/add-on services. We are NOT an authorised Tally partner — keep wording as "we provide / we build / we support," never "official Tally partner."
+NOTE (positioning): Kanvtech provides Tally customization/add-on services. We are NOT an authorised Tally partner - keep wording as "we provide / we build / we support," never "official Tally partner."
 
 
 ==========================================================

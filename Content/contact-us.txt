@@ -1,7 +1,7 @@
-==========================================================
+﻿==========================================================
 KANVTECH SOLUTIONS PRIVATE LIMITED
 WEBSITE PAGE: CONTACT US  (Enquiry + Contact merged)
-Final content — section-wise
+Final content - section-wise
 ==========================================================
 
 NOTE: Enquiry and Contact merged into ONE page (as agreed). This
@@ -23,14 +23,14 @@ Have a question or ready to get started? Reach out and our team will get back to
 
 
 ----------------------------------------------------------
-SECTION 1 — GET IN TOUCH  (intro block)
+SECTION 1 - GET IN TOUCH  (intro block)
 ----------------------------------------------------------
 Heading: Feel Free to Ask
 Text: Whether you want a demo, a quote, or just have a question about the right solution for your business, we're happy to help. Fill in the form and we'll get back to you, or reach us directly using the details below.
 
 
 ----------------------------------------------------------
-SECTION 2 — ENQUIRY FORM
+SECTION 2 - ENQUIRY FORM
 ----------------------------------------------------------
 Form heading: Send Us a Message
 
@@ -39,7 +39,7 @@ Fields:
 - Company Name      (text, optional)
 - Email             (email, required)
 - Phone             (tel, required)
-- Enquiry For       (dropdown, required) — options:
+- Enquiry For       (dropdown, required) - options:
       • Spine Payroll
       • Spine HR Suite
       • Spine Asset
@@ -54,7 +54,7 @@ Fields:
       • Business Analytics
       • Biometric Device
       • Other
-- Message           (textarea, required) — placeholder: "Write your message"
+- Message           (textarea, required) - placeholder: "Write your message"
 
 Button: Send Message
 
@@ -62,11 +62,11 @@ Privacy line under form (small text):
 "By submitting, you agree to our Privacy Policy. Your details are safe with us and used only to respond to your enquiry."
 
 Success message (after submit):
-"Thank you for reaching out. Your enquiry has been received — our team will get back to you shortly."
+"Thank you for reaching out. Your enquiry has been received - our team will get back to you shortly."
 
 
 ----------------------------------------------------------
-SECTION 3 — CONTACT DETAILS
+SECTION 3 - CONTACT DETAILS
 ----------------------------------------------------------
 Heading: Reach Us Directly
 
@@ -87,11 +87,11 @@ Business Hours: Monday – Saturday, 10:00 AM – 7:00 PM
 
 
 ----------------------------------------------------------
-SECTION 4 — GOOGLE MAP
+SECTION 4 - GOOGLE MAP
 ----------------------------------------------------------
 Embed the company's live Google Map (Kanvtech Solutions Pvt Ltd, Dahisar East).
 
-Map embed code (from existing site — verify it still loads, then use):
+Map embed code (from existing site - verify it still loads, then use):
 
 <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.48961819273913!2d72.85561382484734!3d19.20245619236971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b735507ef5f9%3A0xe6e2e9495c3c140c!2sKanvtech%20Solutions%20Private%20Limited!5e0!3m2!1sen!2sin!4v1675776891712!5m2!1sen!2sin"
@@ -104,10 +104,10 @@ https://www.google.com/maps/dir/?api=1&destination=Kanvtech+Solutions+Private+Li
 
 
 ----------------------------------------------------------
-SECTION 5 — SOCIAL LINKS
+SECTION 5 - SOCIAL LINKS
 ----------------------------------------------------------
 Follow Us: Facebook | Twitter (X) | LinkedIn | Instagram | WhatsApp
-[REPLACE placeholders with Kanvtech's REAL profile URLs — old site
+[REPLACE placeholders with Kanvtech's REAL profile URLs - old site
 linked to generic login pages. Get actual handles from client.]
 
 
@@ -122,12 +122,12 @@ Button: Send an Enquiry / Book a Free Demo
 DEV / SEO NOTES  (not page copy)
 ----------------------------------------------------------
 - Form submissions go to: connect@kanvtech.com [CONFIRM recipient
-  email with client — they may want a separate sales inbox].
+  email with client - they may want a separate sales inbox].
 - Make phone click-to-call and add a floating WhatsApp button
   site-wide (good for lead capture).
 - Add basic spam protection (captcha / honeypot).
 - Primary keyword: contact kanvtech / kanvtech solutions mumbai
-- Meta title idea: Contact Kanvtech Solutions — Dahisar East, Mumbai
+- Meta title idea: Contact Kanvtech Solutions - Dahisar East, Mumbai
 - Meta description idea: Get in touch with Kanvtech Solutions for Tally, Spine HR & Payroll, cloud and software solutions. Call +91 70459 98877 or send an enquiry.
 - LocalBusiness schema: add name, address, phone, geo, opening hours
   for local SEO.

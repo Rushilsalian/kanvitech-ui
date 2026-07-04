@@ -1,13 +1,13 @@
-==========================================================
+﻿==========================================================
 KANVTECH SOLUTIONS PRIVATE LIMITED
 WEBSITE PAGE: APP DEVELOPMENT  (Core Solution)
-Final content — section-wise
+Final content - section-wise
 ==========================================================
 
 SCOPE NOTE: This page covers building WEBSITES, WEB APPLICATIONS
 and MOBILE APPS (e-commerce, portals, dashboards, SaaS). Custom
 business software (ERP/CRM/automation) lives on the separate
-"Customize Solutions" page — cross-link, don't duplicate.
+"Customize Solutions" page - cross-link, don't duplicate.
 
 
 ----------------------------------------------------------
@@ -19,13 +19,13 @@ App & Web Development Company in Mumbai
 ----------------------------------------------------------
 INTRO  (1 line under the heading)
 ----------------------------------------------------------
-From a clean business website to a full web or mobile app — Kanvtech designs, builds and maintains it end to end.
+From a clean business website to a full web or mobile app - Kanvtech designs, builds and maintains it end to end.
 
 
 ----------------------------------------------------------
 WHAT IT IS
 ----------------------------------------------------------
-App development is about building the websites and applications your business runs on — anything from a simple informational site to an online store, a customer portal, or a custom app your team and clients use every day. We handle the whole thing: how it looks, how it works behind the scenes, and keeping it running smoothly after launch.
+App development is about building the websites and applications your business runs on - anything from a simple informational site to an online store, a customer portal, or a custom app your team and clients use every day. We handle the whole thing: how it looks, how it works behind the scenes, and keeping it running smoothly after launch.
 
 
 ----------------------------------------------------------
@@ -41,7 +41,7 @@ KEY FEATURES
 - Frontend and backend development built on modern, reliable frameworks
 - Secure database design and management
 - Integration with payment gateways, SMS/email, CRMs and analytics
-- Security built in — SSL, encryption and data protection
+- Security built in - SSL, encryption and data protection
 - Deployment on cloud hosting, plus post-launch support and updates
 
 
@@ -51,20 +51,20 @@ BENEFITS
 - Reach customers around the clock and grow your market presence
 - Automate sign-ups, orders, enquiries and everyday workflows
 - Build credibility with a professional, polished presence
-- Start small and scale — add features and handle more traffic as you grow
+- Start small and scale - add features and handle more traffic as you grow
 
 
 ----------------------------------------------------------
 FAQ  (also supports SEO)
 ----------------------------------------------------------
 Q: What's the difference between a website and a web application?
-A: A website mainly shows information. A web application is interactive — it lets users log in, store data, and do things like online checkout or account management.
+A: A website mainly shows information. A web application is interactive - it lets users log in, store data, and do things like online checkout or account management.
 
 Q: Will my site or app work on mobile?
 A: Yes. We build everything responsive by default, so it adapts cleanly to phones, tablets and desktops.
 
 Q: Do you build mobile apps too?
-A: Yes — alongside websites and web apps, we develop mobile applications depending on what your project needs.
+A: Yes - alongside websites and web apps, we develop mobile applications depending on what your project needs.
 
 Q: Who owns the code once it's built?
 A: You do. The source code, design and rights are yours once the project is complete and final payment is cleared.
@@ -73,7 +73,7 @@ Q: How long does a project take?
 A: A standard website is usually a few weeks; a custom web or mobile application takes longer. We give you a clear timeline once we know the scope.
 
 Q: What happens after the site goes live?
-A: We offer ongoing maintenance — bug fixes, security updates, backups and performance checks — so it keeps running well.
+A: We offer ongoing maintenance - bug fixes, security updates, backups and performance checks - so it keeps running well.
 
 
 ----------------------------------------------------------
@@ -83,12 +83,12 @@ Got an idea for a website or app? Tell us what you have in mind. Book a Free Dem
 
 
 ----------------------------------------------------------
-SEO NOTES  (for development — not page copy)
+SEO NOTES  (for development - not page copy)
 ----------------------------------------------------------
 Primary keyword: web development company in mumbai / app development mumbai
 Secondary: web application development services india, e-commerce website development mumbai, custom web portal developers, mobile app development india
 Meta title idea: App & Web Development Company in Mumbai | Kanvtech
-Meta description idea: Websites, web apps and mobile apps built end to end — e-commerce, portals, dashboards and more. Designed, developed and supported by Kanvtech in Mumbai.
+Meta description idea: Websites, web apps and mobile apps built end to end - e-commerce, portals, dashboards and more. Designed, developed and supported by Kanvtech in Mumbai.
 Internal link: cross-link to "Customize Solutions" and "Cloud Server" pages.
 
 NOTE: Pricing kept off the page on purpose (source had ranges) so

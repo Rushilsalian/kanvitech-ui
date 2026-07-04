@@ -1,7 +1,7 @@
-==========================================================
+﻿==========================================================
 KANVTECH SOLUTIONS PRIVATE LIMITED
 WEBSITE PAGE: SPINE ASSET
-Final content — section-wise
+Final content - section-wise
 ==========================================================
 
 POSITIONING NOTE: Spine is a product Kanvtech is AUTHORISED to
@@ -12,13 +12,13 @@ with Tally pages, where we only provide services.)
 ----------------------------------------------------------
 H1 / PAGE TITLE  (keyword-led)
 ----------------------------------------------------------
-Spine Asset — Fixed Asset Management Software in Mumbai
+Spine Asset - Fixed Asset Management Software in Mumbai
 
 
 ----------------------------------------------------------
 INTRO  (1 line under the heading)
 ----------------------------------------------------------
-Track every asset, automate depreciation and stay audit-ready — Spine Asset, implemented and supported by Kanvtech, an authorised Spine partner.
+Track every asset, automate depreciation and stay audit-ready - Spine Asset, implemented and supported by Kanvtech, an authorised Spine partner.
 
 
 ----------------------------------------------------------
@@ -30,7 +30,7 @@ Spine Asset is fixed asset management software that brings order to how your bus
 ----------------------------------------------------------
 WHO IT'S FOR  /  USE CASE
 ----------------------------------------------------------
-For any business with assets worth tracking — used across industries like manufacturing, infrastructure, textiles, healthcare, automobile and agriculture. It suits companies managing equipment across multiple locations or branches, those needing clean records at audit time, and teams that keep losing track of warranties, AMCs and maintenance schedules.
+For any business with assets worth tracking - used across industries like manufacturing, infrastructure, textiles, healthcare, automobile and agriculture. It suits companies managing equipment across multiple locations or branches, those needing clean records at audit time, and teams that keep losing track of warranties, AMCs and maintenance schedules.
 
 
 ----------------------------------------------------------
@@ -60,7 +60,7 @@ BENEFITS
 FAQ  (also supports SEO)
 ----------------------------------------------------------
 Q: What does Spine Asset actually do?
-A: It helps you track all your company's fixed assets, automate depreciation, manage maintenance and warranties, and keep audit-ready records — all in one place.
+A: It helps you track all your company's fixed assets, automate depreciation, manage maintenance and warranties, and keep audit-ready records - all in one place.
 
 Q: Can it handle assets across multiple branches or locations?
 A: Yes. You can track and manage assets across multiple companies, locations and branches, with workflows and approvals built in.
@@ -82,19 +82,19 @@ Tired of chasing asset records and renewal dates? Let Spine Asset handle it. Boo
 
 
 ----------------------------------------------------------
-SEO NOTES  (for development — not page copy)
+SEO NOTES  (for development - not page copy)
 ----------------------------------------------------------
 Primary keyword: fixed asset management software mumbai
 Secondary: spine asset, asset tracking software india, depreciation software, asset register software, barcode asset management
-Meta title idea: Spine Asset — Fixed Asset Management Software in Mumbai | Kanvtech
+Meta title idea: Spine Asset - Fixed Asset Management Software in Mumbai | Kanvtech
 Meta description idea: Track assets, automate depreciation and stay audit-ready with Spine Asset. Barcode tracking, AMC reminders, audit trail. Set up by Kanvtech, authorised Spine partner.
 Internal link: cross-link to "Spine Payroll", "Spine HR Suite" and "Customize Solutions" pages.
 
-NOTE: Spine = AUTHORISED partner — use that as a trust signal.
-Ignore the stray "all-in-one HRMS" line in the source scrape — it
+NOTE: Spine = AUTHORISED partner - use that as a trust signal.
+Ignore the stray "all-in-one HRMS" line in the source scrape - it
 was a copy-paste error on Spine's site; Spine Asset is asset
 software, not HRMS.
-No pricing on source — none added (enquiry-based).
+No pricing on source - none added (enquiry-based).
 
 
 ==========================================================

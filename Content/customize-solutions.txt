@@ -1,7 +1,7 @@
-==========================================================
+﻿==========================================================
 KANVTECH SOLUTIONS PRIVATE LIMITED
 WEBSITE PAGE: CUSTOMIZE SOLUTIONS  (Core Solution)
-Final content — section-wise
+Final content - section-wise
 ==========================================================
 
 NOTE: The old website's blurb for this page was incorrect (it
@@ -19,13 +19,13 @@ Custom Software Solutions in Mumbai
 ----------------------------------------------------------
 INTRO  (1 line under the heading)
 ----------------------------------------------------------
-Software built around the way your business already runs — not the other way around. Kanvtech designs and develops solutions made for your exact process.
+Software built around the way your business already runs - not the other way around. Kanvtech designs and develops solutions made for your exact process.
 
 
 ----------------------------------------------------------
 WHAT IT IS
 ----------------------------------------------------------
-Customize Solutions means software made specifically for your business instead of a ready-made product you have to adjust to. When off-the-shelf tools don't quite fit — too many features you don't use, or missing the one thing you actually need — we build a solution that matches your workflow. It slots into how your team already works and handles the tasks that are unique to you.
+Customize Solutions means software made specifically for your business instead of a ready-made product you have to adjust to. When off-the-shelf tools don't quite fit - too many features you don't use, or missing the one thing you actually need - we build a solution that matches your workflow. It slots into how your team already works and handles the tasks that are unique to you.
 
 
 ----------------------------------------------------------
@@ -48,7 +48,7 @@ KEY FEATURES
 ----------------------------------------------------------
 BENEFITS
 ----------------------------------------------------------
-- A precise fit — no manual workarounds, no paying for features you'll never use
+- A precise fit - no manual workarounds, no paying for features you'll never use
 - Grows with your business without piling on per-user licence fees
 - You own the software, so you're not locked to anyone for changes later
 - Cuts the recurring licence costs that come with packaged enterprise tools
@@ -58,7 +58,7 @@ BENEFITS
 FAQ  (also supports SEO)
 ----------------------------------------------------------
 Q: How is custom software different from ready-made software?
-A: Ready-made software is built for the general public with fixed features. Custom software is built for your business alone, around your exact process — so it fits without compromise.
+A: Ready-made software is built for the general public with fixed features. Custom software is built for your business alone, around your exact process - so it fits without compromise.
 
 Q: Will it work with the systems we already use?
 A: Yes. We can connect new software to your existing tools, databases, accounting systems or ERP through direct integration or custom APIs.
@@ -70,10 +70,10 @@ Q: How long does a custom project take?
 A: It depends on the size and complexity, but most projects run over a few months from planning to launch. We give you a clear timeline once we understand your requirement.
 
 Q: What about support after it goes live?
-A: We handle ongoing maintenance — bug fixes, security updates, new features and monitoring — through a support arrangement that suits you.
+A: We handle ongoing maintenance - bug fixes, security updates, new features and monitoring - through a support arrangement that suits you.
 
 Q: What will it cost?
-A: Cost depends entirely on what you need. Once we understand the scope, we share a clear written quotation — no guesswork.
+A: Cost depends entirely on what you need. Once we understand the scope, we share a clear written quotation - no guesswork.
 
 
 ----------------------------------------------------------
@@ -83,17 +83,17 @@ Have a process that no software seems to handle? Let's talk it through. Book a F
 
 
 ----------------------------------------------------------
-SEO NOTES  (for development — not page copy)
+SEO NOTES  (for development - not page copy)
 ----------------------------------------------------------
 Primary keyword: custom software development company in mumbai
 Secondary: custom software solutions india, bespoke software developers mumbai, custom erp / crm software, business workflow automation
 Meta title idea: Custom Software Solutions in Mumbai | Kanvtech
-Meta description idea: Custom business software built around your exact process — ERP, CRM, automation and integrations. Designed, built and supported by Kanvtech in Mumbai. Enquire now.
+Meta description idea: Custom business software built around your exact process - ERP, CRM, automation and integrations. Designed, built and supported by Kanvtech in Mumbai. Enquire now.
 Internal link: cross-link to "App Development" and "Tally Customization Solution" pages.
 
 NOTE (positioning): Keep this page about CUSTOM BUSINESS SOFTWARE
 (ERP/CRM/automation/integration). App building (web/mobile apps)
-lives on the separate "App Development" page — cross-link, don't
+lives on the separate "App Development" page - cross-link, don't
 duplicate. Pricing left open on purpose; no fixed figures on the
 public page so sales keeps flexibility.
 
